@@ -14,8 +14,8 @@
     <td><a href="mailto:vkoopuis@informationgrid.eu">vkoopuis@informationgrid.eu</a></td>
   </tr>
   <tr>
-    <td>Documentation</td>
-    <td><a href="https://www.ingrid-oss.eu/">ingrid-oss.eu</a></td>
+    <td>Docs</td>
+    <td><a href="https://www.ingrid-oss.eu/">www.ingrid-oss.eu</a></td>
   </tr>
   <tr>
     <td>License</td>
