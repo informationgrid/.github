@@ -1,10 +1,14 @@
-# Capture. <br>Manage. <br>Discover. <br><br>The tool for your metadata
+# Capture. <br>Manage. <br>Discover. <br><br>The tool for your data and metadata
 
 <img src="/ingrid-plattform.png" alt="InformationGrid illustration" width="480" align="right">
 
-**InGrid** is a powerful, flexible platform for capturing, managing, and publishing data and metadata. The name blends "Information" and "Grid" reflecting structured, efficient networking of complex datasets. Built for geo/environment portals, <u>open-data platforms</u>, and government apps, it scales and integrates seamlessly.
+**InGrid** is a powerful, flexible platform for capturing, managing, and publishing data and metadata. The name blends "Information" and "Grid" reflecting structured, efficient networking of complex datasets. Built for **geo/environment portals**, **open-data platforms**, and **government apps**, it scales and integrates seamlessly.
 
-<br><br>
+<br>
+
+**Free and Open Source Software (FOSS)**
+
+Add your voice, share your use cases, and help us make open data and metadata tooling better for everyone.
 
 **Interested, have ideas, or feedback? We’d love to hear from you!**
 
