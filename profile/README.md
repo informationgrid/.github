@@ -1,4 +1,4 @@
-# Capture. <br>Manage. <br>Discover. <br><br>The tool for your data and metadata
+# Capture. <br>Manage. <br>Discover. <br><br>The Tool for Your Data and Metadata
 
 <img src="/ingrid-plattform.png" alt="InformationGrid illustration" width="480" align="right">
 
